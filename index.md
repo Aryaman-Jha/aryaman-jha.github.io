@@ -26,10 +26,10 @@ criticality.
 #### Research interests
 
 - Non-equilibrium field theory 
-- Lattice models (TASEP, NS, BML etc)
+- Lattice models (TASEP, NS, BML etc) and stochastic PDEs (KPZ etc)
 - Active Matter and Biological Physics (tissue, cellular level pattern-formation and biomolecular mechanics)
 - Renormalization-group methods and scaling forms
-- Interpretability of Neural Networks
+- Statistical field theory of Neural Networks (how they learn and their interpretability)
 
 #### Selected publications
 
