@@ -38,7 +38,7 @@ criticality.
   *Arxiv*, July 2025 
 
 
-You can find a full publication list on my [CV](/assets/cv.pdf).
+You can find my [CV](/assets/cv.pdf).
 
 #### Contact
 [Linkedin](https://www.linkedin.com/in/aryaman-jha/)
