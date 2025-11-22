@@ -28,13 +28,10 @@ criticality.
 
 #### Selected publications
 
-- **Simple traffic model as a space-time clustering phenomenon**  
-  *Physical Review E*, 112, 054104 (2025).
-
-### Preprints
-
 - **Field Theory of the deterministic TASEP**
   (In preparation, coming soon!)
+- **Simple traffic model as a space-time clustering phenomenon**  
+  *Physical Review E*, 112, 054104 (2025).
 - **Evidence of Non-Equilibrium Critical Phenomena in a Simple Model of Traffic**
   *Arxiv*, Jan 2025
 - **Universal Scaling Laws in Freeway Traffic**
