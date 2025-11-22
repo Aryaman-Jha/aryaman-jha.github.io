@@ -1,3 +1,5 @@
+<img src="/assets/img/profile.jpg" alt="Aryaman Jha" width="180" style="border-radius: 10px;"/>
+
 Hi, I am a PhD candidate in Physics at the Georgia Institute of Technology
 (Center for Nonlinear Science), working with Prof. Kurt Wiesenfeld. I am also collaborating with Prof. Jorge Laval in Civil & Environmental Engineering. Recently I have also begun collaborating with Prof. Sujin Babu and Prof. Ramakrishna Ramaswamy on problems in Active matter.
 
