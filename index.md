@@ -38,11 +38,9 @@ criticality.
 - **Universal Scaling Laws in Freeway Traffic**
   *Arxiv*, July 2025 
 
-
 You can find my [CV](/assets/cv.pdf).
 
 #### Contact
-[Linkedin](https://www.linkedin.com/in/aryaman-jha/)
 
 Email: aryaman0211@gmail.com , 
 GitHub: [github.com/Aryaman-Jha](https://github.com/Aryaman-Jha)  
