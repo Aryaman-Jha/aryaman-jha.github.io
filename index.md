@@ -46,6 +46,6 @@ You can find my [CV](/assets/cv.pdf).
 
 #### Contact
 
-Email: aryaman0211@gmail.com , 
+Email: aryaman0211@gmail.com <br>
 GitHub: [github.com/Aryaman-Jha](https://github.com/Aryaman-Jha)  
 Google Scholar: [Profile](https://scholar.google.com/citations?user=XXXX)
