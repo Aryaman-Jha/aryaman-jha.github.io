@@ -12,6 +12,11 @@ In parallel, through collaborations with transportation engineering groups, I ha
 reveal scaling structure, and signatures of non-equilibrium
 criticality.
 
+#### Education
+- **PhD in Physics, (2021 - 2026)**<br> Georgia Institute of Technology (Georgia Tech)
+- **B.S in Physics, (2016 - 2020)**<br> Indian Institute of Technology Kanpur (IIT Kanpur)
+
+
 #### News
 
 - [Nov 2025] Paper on *Simple traffic model as a space-time clustering phenomenon* in *Physical Review E*.
