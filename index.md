@@ -19,6 +19,7 @@ criticality.
 
 #### News
 
+- [Nov/Dec 2025] Our preprint on *Field Theory of the deterministic TASEP* coming soon!
 - [Nov 2025] Paper on *Simple traffic model as a space-time clustering phenomenon* in *Physical Review E*.
 - [July 2025] Preprint on applications of method in percolation theory to empirical traffic is out on *Arxiv*.
 - [March 2025] Presented work on phase transitions in traffic at [Transportation Research Board, 2025].
