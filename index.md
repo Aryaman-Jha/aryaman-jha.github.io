@@ -3,8 +3,7 @@ Hi, I am a PhD candidate in Physics at the Georgia Institute of Technology
 
 I’m working on **non-equilibrium statistical mechanics**, with a focus on  
 **collective phenomena, scaling theory, and renormalization-group (RG) methods**.  
-My work combines analytic approaches (path integrals, height mappings, stochastic
-field theories) with large-scale simulations to understand emergent behavior in
+My work combines analytic approaches (path integrals, renormalization group) with large-scale simulations to understand emergent behavior in
 driven many-body systems.
 
 In parallel, through collaborations with transportation engineering groups, I have also  
