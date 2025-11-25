@@ -45,7 +45,7 @@ criticality.
 - **Evidence of Non-Equilibrium Critical Phenomena in a Simple Model of Traffic**
   *Arxiv*, Jan 2025
 
-You can find my [CV](/assets/cv.pdf).
+You can find my [CV](/assets/doc2CV.pdf).
 
 #### Contact
 
